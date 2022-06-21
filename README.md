@@ -2,17 +2,12 @@
 Like Front End technologies  
 Also, like bikes!
 
-<!--
-**shootermv/shootermv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+___
+### Programming languages
+<p float="left" margin-left="2px">
+<img src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" width = '60' alt="html">
+<img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width = '60' alt="css">
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" width = '60' alt="TypeScript">
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width = '60' alt="javascript">
+<img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" width = '60' alt="nodejs">
+</p>
