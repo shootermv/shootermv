@@ -1,7 +1,8 @@
 ### Hi, I’m @shootermv 👋
 Like Front End technologies  
 Also, like bikes!
-
+##
+<img src="./mee.jpeg" width ='360' alt="me">
 ___
 ### Programming languages
 <p float="left" margin-left="2px">
