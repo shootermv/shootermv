@@ -2,7 +2,10 @@
 Like Front End technologies  
 Also, like bikes!
 ___
-<img src="./mee.jpeg" width ='360' alt="me">   
+### Programming languages
+<p float="left" margin-left="2px">
+<img src="./mee.jpeg" width ='360' alt="me">
+</p>     
 ___
 ### Programming languages
 <p float="left" margin-left="2px">
