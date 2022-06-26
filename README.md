@@ -6,7 +6,7 @@ ___
 <p float="left" margin-left="2px">
 <img src="./mee.jpeg" width ='360' alt="me">
 </p>     
-___
+
 ### Programming languages
 <p float="left" margin-left="2px">
 <img src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" width = '60' alt="html">
