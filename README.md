@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I’m @shootermv</h1>
-## I Like Front End technologies.    
-Also, i like bikes!  
+<h3 align="center">## I Like Front End technologies.</h3>  
+<h3 align="center">Also, i like bikes!</h3> 
 
 <p float="left" margin-left="2px">
 <img src="./mee.jpeg" width ='360' alt="me">
