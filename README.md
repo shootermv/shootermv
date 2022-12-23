@@ -1,4 +1,4 @@
-### Hi, I’m @shootermv 👋
+### Hi 👋, I’m @shootermv 
 Like Front End technologies  
 Also, like bikes!
 ___
