@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I’m @shootermv</h1>
 ## I Like Front End technologies  
-Also, i like bikes!
-___
-##  
+Also, i like bikes!  
+
 <p float="left" margin-left="2px">
 <img src="./mee.jpeg" width ='360' alt="me">
 </p>     
