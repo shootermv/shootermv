@@ -1,6 +1,6 @@
 ### Hi 👋, I’m @shootermv 
 Like Front End technologies  
-Also, like bikes!
+Also, i like bikes!
 ___
 ##  
 <p float="left" margin-left="2px">
