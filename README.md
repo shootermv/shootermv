@@ -14,11 +14,11 @@
   <img src="https://img.shields.io/badge/Code-JavaScript-%23F7DF1E?style=flat-square&logo=javascript">
 </p>
 
-### Programming languages
-<p float="left" margin-left="2px">
-<img src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" width = '60' alt="html">
-<img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width = '60' alt="css">
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" width = '60' alt="TypeScript">
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width = '60' alt="javascript">
-<img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" width = '60' alt="nodejs">
+## 🔧 Tools & Technologies
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-HTML5-%23E34F26?style=flat-square&logo=html5">
+  <img src="https://img.shields.io/badge/Code-CSS3-%231572B6?style=flat-square&logo=css3">
+  <img src="https://img.shields.io/badge/Tools-Git-%23F05032?style=flat-square&logo=git">
+  <img src="https://img.shields.io/badge/Tools-Visual_Studio_Code-%23007ACC?style=flat-square&logo=visual-studio-code">
 </p>
