@@ -4,7 +4,15 @@
 
 <p float="left" margin-left="2px">
 <img src="./mee.jpeg" width ='360' alt="me">
-</p>     
+</p>
+
+## 🚀 Skills
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-React-%2361DAFB?style=flat-square&logo=react">
+  <img src="https://img.shields.io/badge/Code-Tailwind_CSS-%2338B2AC?style=flat-square&logo=tailwind-css">
+  <img src="https://img.shields.io/badge/Code-JavaScript-%23F7DF1E?style=flat-square&logo=javascript">
+</p>
 
 ### Programming languages
 <p float="left" margin-left="2px">
