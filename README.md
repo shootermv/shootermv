@@ -1,4 +1,12 @@
 <h1 align="center">Hi 👋, I’m Moshe Vilner</h1>
+<p align="center">
+  <a href="https://github.com/shootermv">
+    <img src="https://img.shields.io/badge/GitHub-@shootermv-blue?style=flat-square&logo=github">
+  </a>
+  <a href="mailto:shootermv@gmail.com">
+    <img src="https://img.shields.io/badge/Email-shootermv%40gmail.com-%23C25D7F?style=flat-square&logo=gmail">
+  </a>
+</p>
 <h3 align="center">## I Like Front End technologies.</h3>  
 <h3 align="center">Also, i like bikes!</h3> 
 
