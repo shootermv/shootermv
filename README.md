@@ -22,12 +22,6 @@
   <img src="https://img.shields.io/badge/Code-JavaScript-%23F7DF1E?style=flat-square&logo=javascript">
 </p>
 
-## 📫 Get in Touch
-
-- [LinkedIn](https://www.linkedin.com/in/moshe-vilner-7a7745a/)
-- [Website](https://shootermv.github.io/moshe-vilner/)
-- Email: <shootermv@gmail.com>
-
 ## 🔧 Tools & Technologies
 
 <p align="center">
@@ -36,3 +30,11 @@
   <img src="https://img.shields.io/badge/Tools-Git-%23F05032?style=flat-square&logo=git">
   <img src="https://img.shields.io/badge/Tools-Visual_Studio_Code-%23007ACC?style=flat-square&logo=visual-studio-code">
 </p>
+
+## 📫 Get in Touch
+
+- [LinkedIn](https://www.linkedin.com/in/moshe-vilner-7a7745a/)
+- [Website](https://shootermv.github.io/moshe-vilner/)
+- Email: <shootermv@gmail.com>
+
+
