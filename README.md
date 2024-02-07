@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/Email-shootermv%40gmail.com-%23C25D7F?style=flat-square&logo=gmail">
   </a>
 </p>
-<h3 align="center">## I Like Front End technologies.</h3>  
+<h3 align="center">I Like Front End technologies.</h3>  
 <h3 align="center">Also, i like bikes!</h3> 
 
 <p float="left" margin-left="2px">
